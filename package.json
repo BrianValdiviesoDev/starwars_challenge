@@ -15,17 +15,14 @@
   "author": "Brian Valdivieso",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^4.18.2",
     "jest-html-reporters": "^3.1.4",
-    "morgan": "^1.10.0",
     "ts-node": "^10.9.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.16",
     "@types/express": "^4.17.17",
     "@types/jest": "^29.5.10",
-    "@types/morgan": "^1.9.7",
     "@types/supertest": "^2.0.16",
     "@typescript-eslint/eslint-plugin": "^6.13.1",
     "@typescript-eslint/parser": "^6.13.1",
